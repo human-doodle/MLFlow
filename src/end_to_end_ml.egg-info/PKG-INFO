@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: end-to-end-ml
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/human-doodle/end-to-end-ml
+Author: human-doodle
+Author-email: shiv040998@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/human-doodle/end-to-end-ml/issues
+Platform: UNKNOWN
+License-File: LICENSE
+
+# MLFlow
+
